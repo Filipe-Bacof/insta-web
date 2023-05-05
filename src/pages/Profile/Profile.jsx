@@ -137,7 +137,7 @@ const Profile = () => {
 
     if(loading) {
         return <p>Carregando...</p>
-    };
+    }
 
 
   return (
